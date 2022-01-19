@@ -176,6 +176,10 @@
   margin: 0;
 }
 
+.table__text_bottom {
+  padding-top: 20px;
+}
+
 /* Feynman */
 
 .feynman {
