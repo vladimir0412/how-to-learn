@@ -238,11 +238,12 @@
   overflow: hidden;
   position: relative;
   padding: 90px 0;
-  z-index: -1;
 }
 
 .section-title_theme_dark {
   color: #fff;
+  position: relative;
+  z-index: 1;
 }
 
 .section-subtitle_theme_dark {
@@ -256,6 +257,7 @@
   margin-right: 0;
   margin-top: 80px;
   padding: 0;
+  z-index: 1;
 }
 
 .kaufman__triangle {
@@ -266,7 +268,6 @@
   right: -210px;
   top: 0;
   background-size: 100%;
-  z-index: -1;
 }
 
 /* Footer */
