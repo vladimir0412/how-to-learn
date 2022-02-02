@@ -1,0 +1,11 @@
+.kaufman {
+  background-color: #1f1f1f;
+  overflow: hidden;
+  position: relative;
+  padding: 90px 0;
+}
+
+.kaufman .kaufman__triangle {
+  animation: rotation 20s linear infinite normal;
+}
+

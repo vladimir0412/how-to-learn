@@ -1,0 +1,8 @@
+.table__cell {
+  padding-top: 60px;
+  width: 250px;
+}
+
+.table__cell :nth-child(3n) {
+  padding-top: 20px;
+}
